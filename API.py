@@ -1,6 +1,6 @@
 import json, requests
 
-response = requests.get("http://localhost:21262")
+response = requests.get("http://localhost:5000")
 json_data = json.loads(response.text)
 
 notas= {}
