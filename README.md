@@ -10,9 +10,9 @@ Dadas as informações de fronteira dos países abaixo, elabore um algoritmo (n�
 
 <img src="/imagem.png" width="550">
 
-PS: A exibição pode ser em console mesmo, dependendo da linguagem que for utilizada.
-PS: Para o fornecimento dos dados, construa uma API que forneça os dados no formato como  o exemplo dessa URL: http://www.scale.com.br/countries.json.
-PS: Veja que a solução de backend consumirá as APIs apresentadas, fará o devido tratamento e responderá ao frontend.
+PS: 1. A exibição pode ser em console mesmo, dependendo da linguagem que for utilizada. <br>
+2. Para o fornecimento dos dados, construa uma API que forneça os dados no formato como  o exemplo dessa URL: http://www.scale.com.br/countries.json. <br>
+3. Veja que a solução de backend consumirá as APIs apresentadas, fará o devido tratamento e responderá ao frontend.
 
 
 ## Como usar 
