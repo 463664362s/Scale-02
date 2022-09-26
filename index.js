@@ -32,6 +32,6 @@ app.get('/', (req, res) => {
     return res.json(db)
 })
 
-app.listen(21262, () => {
-    console.log(`API rodando na porta http://localhost:21262`)
+app.listen(5000, () => {
+    console.log(`API rodando na porta http://localhost:5000`)
 })
