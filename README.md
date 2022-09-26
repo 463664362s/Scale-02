@@ -8,7 +8,7 @@ Exercicio para avaliação do time Scale
 
 Dadas as informações de fronteira dos países abaixo, elabore um algoritmo (não utilizarcódigo pronto) para exibir os países em ordem de número de fronteiras (do maior para o menor).
 
-<img src="/imagem.jpg" width="550">
+<img src="/imagem.png" width="550">
 
 PS: A exibição pode ser em console mesmo, dependendo da linguagem que for utilizada.
 PS: Para o fornecimento dos dados, construa uma API que forneça os dados no formato como  o exemplo dessa URL: http://www.scale.com.br/countries.json.
