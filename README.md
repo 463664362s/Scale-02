@@ -1,8 +1,25 @@
+# Exercício de Admissão Scale - 02
+
+Exercicio para avaliação do time Scale
+
 # Scale-02
 
-Execute os comandos no terminal:
+## Objetivo 
 
-npm i <br>
-npm start <br>
+Dadas as informações de fronteira dos países abaixo, elabore um algoritmo (não utilizarcódigo pronto) para exibir os países em ordem de número de fronteiras (do maior para o menor).
 
-Apos isso execute o arquivo API.py 
+<img src="/imagem.jpg" width="550">
+
+PS: A exibição pode ser em console mesmo, dependendo da linguagem que for utilizada.
+PS: Para o fornecimento dos dados, construa uma API que forneça os dados no formato como  o exemplo dessa URL: http://www.scale.com.br/countries.json.
+PS: Veja que a solução de backend consumirá as APIs apresentadas, fará o devido tratamento e responderá ao frontend.
+
+
+## Como usar 
+
+Para executar a API execute os seguintes comandos no terminal:
+
+npm i - para instalar o node_modules  <br>
+npm start - iniciar a api
+
+Apos isso execute o arquivo API.py que ira puxar os dados da API e executar o script
